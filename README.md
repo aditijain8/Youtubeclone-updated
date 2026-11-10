@@ -1,3 +1,13 @@
+# YouTube Clone (Updated)
+
+An updated version of my YouTube clone built with React. It recreates the core YouTube experience in the browser as a front-end learning project.
+
+Built with React (Create React App). To run it locally, clone the repo, run `npm install` and then `npm start`.
+
+The sections below are the standard Create React App documentation.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
